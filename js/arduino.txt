@@ -1,0 +1,7 @@
+primeiro --> npm install
+
+segundo --> npm install tedious
+
+terceiro --> npm install serialport
+
+para executar --> node <nome do documento e a extensão>
